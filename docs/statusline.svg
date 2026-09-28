@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="402" height="112" viewBox="0 0 402 112" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">
+  <rect width="402" height="112" rx="10" fill="#1e1e2e"/>
+  <circle cx="20" cy="18" r="6" fill="#f38ba8"/><circle cx="40" cy="18" r="6" fill="#f9e2af"/><circle cx="60" cy="18" r="6" fill="#a6e3a1"/>
+  <text x="16.0" y="50" textLength="8.4" lengthAdjust="spacingAndGlyphs" fill="#cdd6f4" font-weight="700" xml:space="preserve">&gt;</text><text x="32.8" y="50" textLength="210.0" lengthAdjust="spacingAndGlyphs" fill="#cdd6f4" opacity="0.6" xml:space="preserve">Try "refactor the parser"</text>
+  
+  <text x="16.0" y="90" textLength="33.6" lengthAdjust="spacingAndGlyphs" fill="#cdd6f4" xml:space="preserve"> 5h </text><text x="49.6" y="90" textLength="25.2" lengthAdjust="spacingAndGlyphs" fill="#a6e3a1" xml:space="preserve">63%</text><text x="74.8" y="90" textLength="50.4" lengthAdjust="spacingAndGlyphs" fill="#cdd6f4" opacity="0.6" xml:space="preserve"> 3h 0m</text><text x="125.2" y="90" textLength="25.2" lengthAdjust="spacingAndGlyphs" fill="#cdd6f4" opacity="0.6" xml:space="preserve"> · </text><text x="150.4" y="90" textLength="25.2" lengthAdjust="spacingAndGlyphs" fill="#cdd6f4" xml:space="preserve">wk </text><text x="175.6" y="90" textLength="25.2" lengthAdjust="spacingAndGlyphs" fill="#a6e3a1" xml:space="preserve">41%</text><text x="200.8" y="90" textLength="50.4" lengthAdjust="spacingAndGlyphs" fill="#cdd6f4" opacity="0.6" xml:space="preserve"> 4d 0h</text>
+</svg>

@@ -1,0 +1,26 @@
+{
+  "name": "cusage",
+  "version": "1.0.0",
+  "description": "Your Claude Pro/Max plan usage in the terminal, live, with a Claude Code status line.",
+  "keywords": ["claude", "claude-code", "anthropic", "usage", "rate-limit", "statusline", "cli", "terminal"],
+  "homepage": "https://github.com/William-Ger/cusage#readme",
+  "bugs": "https://github.com/William-Ger/cusage/issues",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/William-Ger/cusage.git"
+  },
+  "license": "MIT",
+  "author": "William Gerstung",
+  "type": "module",
+  "bin": {
+    "cusage": "bin/cusage.mjs"
+  },
+  "files": ["bin", "src"],
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test",
+    "demo": "node scripts/demo-svg.mjs"
+  }
+}
